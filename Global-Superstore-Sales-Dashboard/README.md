@@ -21,6 +21,7 @@ The data was cleaned and prepared using Python before being visualized in Tablea
 - Total Customers: 795
 
 ## Dashboard 1 – Sales Performance Overview
+![Sales Performance Dashboard](sales-performance-dashboard.png)
 
 The main dashboard provides an overview of:
 
@@ -31,6 +32,7 @@ The main dashboard provides an overview of:
 - Relationship between discount and profit
 
 ## Dashboard 2 – Geographic Sales Performance
+![Geographic Sales Dashboard](geographic-sales-dashboard.png)
 
 The geographic dashboard provides:
 
