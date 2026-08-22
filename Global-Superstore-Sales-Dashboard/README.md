@@ -48,3 +48,11 @@ The geographic dashboard provides:
 - The United States generated the highest country-level sales and profit.
 - Higher discount levels are generally associated with lower profitability.
 - Country rankings differ between sales and profit, showing that higher sales do not always translate directly into higher profit.
+
+## Dataset Source
+
+The original dataset used for this project is the SuperStore Sales Analytics dataset available on Kaggle.
+
+[SuperStore Sales Analytics – Kaggle](https://www.kaggle.com/datasets/thuandao/superstore-sales-analytics)
+
+The original data was cleaned and prepared using Python (Pandas) before being used for the Tableau analysis and dashboards.
