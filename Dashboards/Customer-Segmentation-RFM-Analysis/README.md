@@ -8,7 +8,7 @@ Python was used for data preparation, customer-level aggregation, RFM scoring, a
 
 ## Dashboard
 
-![Customer Segmentation Dashboard](customer-segmentation-dashboard.png)
+![Customer Segmentation Dashboard](customer%20segmentation%20dashboard.png)
 
 ## Analysis Process
 
