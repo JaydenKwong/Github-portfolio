@@ -28,7 +28,7 @@ A sales analytics project using Python and Tableau to analyze sales performance,
 - Discount and profitability analysis
 - Interactive geographic dashboard
 
-[View Project](Global-Superstore-Sales-Dashboard)
+[View Project](Dashboards/Global-Superstore-Sales-Dashboard)
 
 ---
 
