@@ -32,6 +32,23 @@ A sales analytics project using Python and Tableau to analyze sales performance,
 
 ---
 
+### 2. Customer Segmentation & RFM Analysis Dashboard
+
+A customer analytics project using Python and Tableau to analyze purchasing behaviour and segment customers using Recency, Frequency, and Monetary (RFM) analysis.
+
+**Tools:** Python (Pandas), Tableau, Google Colab
+
+**Key Analysis:**
+
+- Customer-level RFM analysis
+- Recency, frequency, and monetary scoring
+- Customer segmentation into behavioural groups
+- Customer value and purchase frequency analysis
+- Interactive customer segment dashboard
+
+[View Project](Dashboards/Customer-Segmentation-RFM-Analysis)
+
+---
 ## About Me
 
 I am interested in using data to understand business performance, identify patterns, and support business decision-making. My portfolio focuses on combining technical data analysis with practical business insights.
