@@ -71,6 +71,27 @@ A customer analytics and machine learning project analyzing customer churn patte
 
 ---
 
+### 4. Customer Cohort & Retention Analysis
+
+A customer analytics project using Python and Tableau to analyze customer retention, acquisition trends, and repeat customer value through cohort analysis.
+
+**Tools:** Python (Pandas), Tableau, Google Colab
+
+**Key Analysis:**
+
+- Customer cohort creation based on first purchase month
+- Monthly customer retention analysis
+- Cohort retention heatmap
+- Customer acquisition trends by cohort
+- Repeat customer analysis
+- 3-month repeat revenue per customer
+- Monthly revenue trends
+- Interactive cohort and retention dashboards
+
+[View Project](https://github.com/JaydenKwong/Github-portfolio/tree/main/Dashboards/Customer-Cohort-Retention-Analysis)
+
+---
+
 ## About Me
 
 I am interested in using data to understand business performance, identify patterns, and support business decision-making. My portfolio focuses on combining technical data analysis with practical business insights.
