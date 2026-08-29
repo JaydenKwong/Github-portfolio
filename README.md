@@ -92,6 +92,27 @@ A customer analytics project using Python and Tableau to analyze customer retent
 
 ---
 
+### 5. Digital Marketing Campaign Performance Dashboard
+
+A marketing analytics project using Python and Tableau to analyze digital advertising performance and identify strategies associated with stronger advertising returns.
+
+**Tools:** Python (Pandas), Tableau, Google Colab
+
+**Key Analysis:**
+
+- Advertising spend, revenue, profit, ROAS, conversion rate, and CPA
+- Advertising platform performance
+- Campaign objective performance
+- Creative format performance
+- Retargeting vs non-retargeting analysis
+- ROAS trends over time
+- Interactive campaign performance dashboard
+- Marketing budget allocation recommendations
+
+[View Project](https://github.com/JaydenKwong/Github-portfolio/tree/main/Dashboards/Marketing-Campaign-Analysis)
+
+---
+
 ## About Me
 
 I am interested in using data to understand business performance, identify patterns, and support business decision-making. My portfolio focuses on combining technical data analysis with practical business insights.
