@@ -131,6 +131,27 @@ A financial analytics project using Python and Tableau to analyze company revenu
 
 ---
 
+### 7. AAPL Revenue Time Series Forecasting
+
+A financial forecasting project using R and SARIMA to analyze historical Apple (AAPL) quarterly revenue patterns and forecast future revenue.
+
+**Tools:** R, RStudio, Forecast Package, Time Series Analysis
+
+**Key Analysis:**
+- AAPL quarterly revenue trend analysis
+- Stationarity testing using ADF and KPSS
+- Seasonal stability testing using Canova-Hansen test
+- Regular and seasonal differencing
+- ACF and PACF analysis
+- SARIMA model development
+- 70/30 time series train-test evaluation
+- Forecast accuracy evaluation using RMSE, MAE, MAPE, MASE, and Theil's U
+- Four-quarter future revenue forecast with prediction intervals
+
+[View Project](Time%20Series%20Forecasting/AAPL%20Revenue%20Forecasting)
+
+---
+
 ## About Me
 
 I am interested in using data to understand business performance, identify patterns, and support business decision-making. My portfolio focuses on combining technical data analysis with practical business insights.
