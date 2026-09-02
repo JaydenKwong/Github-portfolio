@@ -113,6 +113,24 @@ A marketing analytics project using Python and Tableau to analyze digital advert
 
 ---
 
+### 6. Financial Analysis Dashboard
+
+A financial analytics project using Python and Tableau to analyze company revenue, expenses, profitability, and financial performance over time.
+
+**Tools:** Python (Pandas), Tableau, Google Colab
+
+**Key Analysis:**
+- Quarterly revenue trends
+- Gross profit, operating income, and net income trends
+- Operating expense, R&D, and SG&A analysis
+- Gross, operating, and net profit margin analysis
+- Quarter-over-Quarter and Year-over-Year growth
+- Interactive company financial performance dashboard
+
+[View Project](Dashboards/Financial-Analysis-Dashboard)
+
+---
+
 ## About Me
 
 I am interested in using data to understand business performance, identify patterns, and support business decision-making. My portfolio focuses on combining technical data analysis with practical business insights.
