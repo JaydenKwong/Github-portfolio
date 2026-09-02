@@ -64,3 +64,22 @@ The test MASE above 1 and Theil's U above 1 also indicate that the model did not
 ### 3. What is the forecast for the next four quarters?
 
 | Quarter | Forecast Revenue | 80% Prediction Interval | 95% Prediction Interval |
+| --- | ---: | ---: | ---: |
+| 2025 Q4 | $131.84B | $124.87B – $138.80B | $121.18B – $142.49B |
+| 2026 Q1 | $102.90B | $93.05B – $112.74B | $87.83B – $117.96B |
+| 2026 Q2 | $101.57B | $89.51B – $113.64B | $83.12B – $120.02B |
+| 2026 Q3 | $110.00B | $96.07B – $123.93B | $88.70B – $131.30B |
+
+The forecast continues the quarterly seasonal pattern observed in historical AAPL revenue, with the highest forecast occurring in **2025 Q4 at approximately $131.84B**.
+
+## Forecast Visualization
+
+![AAPL Quarterly Revenue Forecast](Rplot.png)
+
+The black line represents actual AAPL revenue, the red line represents the fitted SARIMA model, and the blue section represents the future forecast with prediction intervals.
+
+## Conclusion
+
+The analysis identified strong growth and quarterly seasonality in AAPL revenue. A SARIMA model was able to capture much of the historical pattern, although its weaker performance on unseen data shows the difficulty of forecasting real corporate revenue using historical patterns alone.
+
+The project demonstrates how time series analysis can be used not only to generate future forecasts, but also to evaluate forecast reliability before using the results for financial decision-making.
