@@ -152,6 +152,25 @@ A financial forecasting project using R and SARIMA to analyze historical Apple (
 
 ---
 
+### 8. Product Performance Analysis
+
+A product analytics project using Python and Tableau to identify best-selling and underperforming products and analyze revenue, profitability, category performance, and sales trends.
+
+**Tools:** Python (Pandas), Tableau, Google Colab
+
+**Key Analysis:**
+
+- Product revenue and profitability performance
+- Best-selling and underperforming product identification
+- Product revenue concentration using Pareto analysis
+- Category and sub-category revenue and profit analysis
+- Profit margin analysis
+- Monthly revenue trends by category
+
+[View Project](Dashboards/Product-Performance-Analysis)
+
+---
+
 ## About Me
 
 I am interested in using data to understand business performance, identify patterns, and support business decision-making. My portfolio focuses on combining technical data analysis with practical business insights.
