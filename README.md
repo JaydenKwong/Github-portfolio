@@ -171,6 +171,26 @@ A product analytics project using Python and Tableau to identify best-selling an
 
 ---
 
+### 9. Marketing A/B Testing Analysis
+
+A statistical analysis project using Python to evaluate whether showing advertisements significantly improves customer conversion compared with a control group shown a Public Service Announcement (PSA).
+
+**Tools:** Python (Pandas, NumPy, Statsmodels, Matplotlib), Google Colab
+
+**Key Analysis:**
+
+- AD vs PSA conversion rate comparison
+- Absolute conversion difference and relative lift
+- Two-proportion Z-test for statistical significance
+- 95% confidence interval analysis
+- Estimated additional conversions from advertising
+- Conversion performance by day and hour
+- Business recommendations based on experimental results
+
+[View Project](Statistical%20Analysis/Marketing%20A-B%20Testing)
+
+---
+
 ## About Me
 
 I am interested in using data to understand business performance, identify patterns, and support business decision-making. My portfolio focuses on combining technical data analysis with practical business insights.
