@@ -191,6 +191,27 @@ A statistical analysis project using Python to evaluate whether showing advertis
 
 ---
 
+### 10. Website Traffic & User Engagement Analysis
+
+A website analytics project using Python and Tableau to analyze traffic sources, visitor engagement, session behavior, bounce rates, and returning visitor patterns.
+
+**Tools:** Python (Pandas), Tableau, Google Colab
+
+**Key Analysis:**
+
+- Website traffic distribution by traffic source
+- Average page views by traffic source
+- Session duration and page view relationship
+- Session duration and bounce rate relationship
+- Previous visits and returning visitor engagement
+- Overall website engagement using page views, session duration, bounce rate, and time on page
+- Interactive traffic source filtering
+- Business recommendations for traffic acquisition and visitor engagement
+
+[View Project](Dashboards/Website-Traffic-Analysis)
+
+---
+
 ## About Me
 
 I am interested in using data to understand business performance, identify patterns, and support business decision-making. My portfolio focuses on combining technical data analysis with practical business insights.
