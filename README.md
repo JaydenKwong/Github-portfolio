@@ -212,6 +212,26 @@ A website analytics project using Python and Tableau to analyze traffic sources,
 
 ---
 
+### 11. Student Demographics & Geographic Analysis
+
+A real-world small business analytics project using Python, Tableau, and geographic analysis to understand student demographics, customer locations, catchment areas, and potential markets for Ballotté Dance Academy #Puchong.
+
+**Tools:** Python (Pandas), Tableau, Google Colab, Geographic Mapping
+
+**Key Analysis:**
+
+- Student demographic and age group analysis
+- Student distribution by area, township, and city
+- Geographic customer concentration analysis
+- Student distance and catchment area analysis
+- Identification of primary and secondary customer catchments
+- Residential area and customer cluster analysis
+- Identification of potential geographic target markets
+- Business recommendations for localized student acquisition
+
+[View Project](Dashboards/Student-Demographics-Geographic-Analysis)
+
+
 ## About Me
 
 I am interested in using data to understand business performance, identify patterns, and support business decision-making. My portfolio focuses on combining technical data analysis with practical business insights.
